@@ -1,0 +1,15 @@
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\bin\Debug\net7.0\dsa1.exe
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\bin\Debug\net7.0\dsa1.deps.json
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\bin\Debug\net7.0\dsa1.runtimeconfig.json
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\bin\Debug\net7.0\dsa1.dll
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\bin\Debug\net7.0\dsa1.pdb
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.dll
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\refint\dsa1.dll
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.pdb
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\dsa1.genruntimeconfig.cache
+D:\DOT NET\Dot_Net_Practice\Day1\dsa1\obj\Debug\net7.0\ref\dsa1.dll

@@ -1,0 +1,15 @@
+D:\DOT NET\Dot_Net_Practice\day4\practice\bin\Debug\net7.0\practice.exe
+D:\DOT NET\Dot_Net_Practice\day4\practice\bin\Debug\net7.0\practice.deps.json
+D:\DOT NET\Dot_Net_Practice\day4\practice\bin\Debug\net7.0\practice.runtimeconfig.json
+D:\DOT NET\Dot_Net_Practice\day4\practice\bin\Debug\net7.0\practice.dll
+D:\DOT NET\Dot_Net_Practice\day4\practice\bin\Debug\net7.0\practice.pdb
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.dll
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\refint\practice.dll
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.pdb
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\practice.genruntimeconfig.cache
+D:\DOT NET\Dot_Net_Practice\day4\practice\obj\Debug\net7.0\ref\practice.dll

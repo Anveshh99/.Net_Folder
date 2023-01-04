@@ -1,0 +1,15 @@
+D:\DOT NET\Dot_Net_Practice\Day1\stack\bin\Debug\net7.0\stack.exe
+D:\DOT NET\Dot_Net_Practice\Day1\stack\bin\Debug\net7.0\stack.deps.json
+D:\DOT NET\Dot_Net_Practice\Day1\stack\bin\Debug\net7.0\stack.runtimeconfig.json
+D:\DOT NET\Dot_Net_Practice\Day1\stack\bin\Debug\net7.0\stack.dll
+D:\DOT NET\Dot_Net_Practice\Day1\stack\bin\Debug\net7.0\stack.pdb
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.dll
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\refint\stack.dll
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.pdb
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\stack.genruntimeconfig.cache
+D:\DOT NET\Dot_Net_Practice\Day1\stack\obj\Debug\net7.0\ref\stack.dll

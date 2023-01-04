@@ -1,0 +1,12 @@
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\bin\Debug\net7.0\Drawing.deps.json
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\bin\Debug\net7.0\Drawing.dll
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\bin\Debug\net7.0\Drawing.pdb
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\Drawing.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\Drawing.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\Drawing.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\Drawing.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\Drawing.dll
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\refint\Drawing.dll
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\Drawing.pdb
+D:\DOT NET\Dot_Net_Practice\Day3\GraphicsSolutionPractice\Drawing\obj\Debug\net7.0\ref\Drawing.dll

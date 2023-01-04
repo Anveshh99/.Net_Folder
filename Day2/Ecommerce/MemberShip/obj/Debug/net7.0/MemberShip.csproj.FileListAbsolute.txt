@@ -1,0 +1,12 @@
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\MemberShip.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\MemberShip.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\MemberShip.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\MemberShip.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\MemberShip.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\bin\Debug\net7.0\MemberShip.deps.json
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\bin\Debug\net7.0\MemberShip.dll
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\bin\Debug\net7.0\MemberShip.pdb
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\MemberShip.dll
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\refint\MemberShip.dll
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\MemberShip.pdb
+D:\DOT NET\Dot_Net_Practice\Day2\Ecommerce\MemberShip\obj\Debug\net7.0\ref\MemberShip.dll

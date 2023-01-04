@@ -1,0 +1,15 @@
+D:\DOT NET\Dot_Net_Practice\Day1\customer\bin\Debug\net7.0\customer.exe
+D:\DOT NET\Dot_Net_Practice\Day1\customer\bin\Debug\net7.0\customer.deps.json
+D:\DOT NET\Dot_Net_Practice\Day1\customer\bin\Debug\net7.0\customer.runtimeconfig.json
+D:\DOT NET\Dot_Net_Practice\Day1\customer\bin\Debug\net7.0\customer.dll
+D:\DOT NET\Dot_Net_Practice\Day1\customer\bin\Debug\net7.0\customer.pdb
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.dll
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\refint\customer.dll
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.pdb
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\customer.genruntimeconfig.cache
+D:\DOT NET\Dot_Net_Practice\Day1\customer\obj\Debug\net7.0\ref\customer.dll
