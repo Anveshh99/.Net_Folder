@@ -1,0 +1,15 @@
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\bin\Debug\net7.0\Banking.exe
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\bin\Debug\net7.0\Banking.deps.json
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\bin\Debug\net7.0\Banking.runtimeconfig.json
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\bin\Debug\net7.0\Banking.dll
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\bin\Debug\net7.0\Banking.pdb
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.dll
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\refint\Banking.dll
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.pdb
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\Banking.genruntimeconfig.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day6\Banking\obj\Debug\net7.0\ref\Banking.dll
