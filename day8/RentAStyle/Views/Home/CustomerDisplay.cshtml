@@ -1,0 +1,42 @@
+@using Shop;
+@{
+     ViewData["List"]="Customer list";
+}
+
+<div style="background-color: aqua;">
+<h1>Customer</h1>
+<div class="text-center">
+
+@{
+    int count=1;
+    List<Customer> custList=(List<Customer>)ViewData["ListofCustomer"];
+    
+    <table claass="table" style="border: 2px solid black"> 
+        <thead style="border: 2px solid black">
+            <tr>
+                <th scope="col" style="border: 2px solid black">Sr.No</th>
+                <th scope="col" style="border: 2px solid black">Customer ID</th>
+                <th scope="col" style="border: 2px solid black">Name</th>
+                <th scope="col" style="border: 2px solid black">Email</th>
+            </tr>
+        </thead>
+
+        <tbody style="border: 2px solid black">
+            @foreach (Customer item in custList)
+            {
+                <tr>
+                    <th scope="row" style="border: 2px solid black">@count</th>
+                    <th style="border: 2px solid black">@item.Cid</th>
+                    <th style="border: 2px solid black">@item.Name</th>
+                    <th style="border: 2px solid black">@item.Email</th>
+                </tr>
+                count=count+1;
+            }
+        </tbody>
+    </table>
+
+
+}
+
+</div>
+</div>
