@@ -1,0 +1,15 @@
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\bin\Debug\net7.0\CollectionSoln.exe
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\bin\Debug\net7.0\CollectionSoln.deps.json
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\bin\Debug\net7.0\CollectionSoln.runtimeconfig.json
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\bin\Debug\net7.0\CollectionSoln.dll
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\bin\Debug\net7.0\CollectionSoln.pdb
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.dll
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\refint\CollectionSoln.dll
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.pdb
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\CollectionSoln.genruntimeconfig.cache
+D:\DOT NET\Dot_Net_Practice\.Net_Folder\day7\CollectionSoln\obj\Debug\net7.0\ref\CollectionSoln.dll

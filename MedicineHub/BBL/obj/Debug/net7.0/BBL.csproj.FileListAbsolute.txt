@@ -1,0 +1,17 @@
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\bin\Debug\net7.0\BBL.deps.json
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\bin\Debug\net7.0\BBL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\bin\Debug\net7.0\BBL.pdb
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\bin\Debug\net7.0\BOL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\bin\Debug\net7.0\DAL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\bin\Debug\net7.0\BOL.pdb
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\bin\Debug\net7.0\DAL.pdb
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.csproj.CopyComplete
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\refint\BBL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\BBL.pdb
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\BBL\obj\Debug\net7.0\ref\BBL.dll

@@ -5,10 +5,6 @@ using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-
-
-
-
 try
 {
 
@@ -61,6 +57,7 @@ try
         var produtsJson=JsonSerializer.Serialize<List<PRS>>(list,options);
         string classfile=@"D:\DOT NET\Dot_Net_Practice\day5\products.json";
         File.WriteAllText(classfile,produtsJson);
+        
         string jsonCollection=File.ReadAllText(classfile);
         List<PRS> jsonSalary=JsonSerializer.Deserialize<List<PRS>>(jsonCollection);
         System.Console.WriteLine("Deserialization started");

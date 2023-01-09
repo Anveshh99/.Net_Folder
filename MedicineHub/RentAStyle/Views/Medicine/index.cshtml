@@ -1,0 +1,17 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<div>
+    <h2>Medicine Catalog</h2>
+    @{
+        List<Medicine> allProducts= (List<Medicine>)ViewData["medicine"];
+        <ol>
+            @foreach( Medicine medicine in allProducts){
+                <li>Name: @medicine.Name-> Make: @medicine.Brand </li>
+                System.Console.WriteLine(medicine.Brand+" "+medicine.Generic);
+            }    
+        </ol>    
+    }
+</div>

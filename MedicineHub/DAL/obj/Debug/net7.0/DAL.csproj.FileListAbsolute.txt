@@ -1,0 +1,15 @@
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\bin\Debug\net7.0\DAL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\bin\Debug\net7.0\DAL.pdb
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\bin\Debug\net7.0\BOL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\bin\Debug\net7.0\BOL.pdb
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.csproj.CopyComplete
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\DAL.pdb
+D:\DOT NET\Dot_Net_Practice\Net_Folder\day10\DAL\obj\Debug\net7.0\ref\DAL.dll
